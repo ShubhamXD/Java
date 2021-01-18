@@ -15,7 +15,7 @@
       rundll32 sysdm.cpl,EditEnvironmentVariables
   
    OR
- a.Right click 'My Computer' and select 'Properties'.
- b.Click 'Advanced System Settings' link.
- c.Click 'Advanced' tab.
- d.Click 'Environment Variables...' button.
+ a. Right click 'My Computer' and select 'Properties'.
+ b. Click 'Advanced System Settings' link.
+ c. Click 'Advanced' tab.
+ d. Click 'Environment Variables...' button.
