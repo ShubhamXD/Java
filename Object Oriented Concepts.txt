@@ -1,0 +1,11 @@
+Object Oriented Concepts
+    1.inheritance
+        a. single level
+        b. multi level
+        c. multiple  // java doesn't have multiple inheritance
+                    // partial multiple inheritance
+        d. hybrid
+        e. hierarchical
+    2.polymorphism
+    3.abstraction
+    4.encapsulation

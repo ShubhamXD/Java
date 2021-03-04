@@ -7,5 +7,5 @@
 2.	Write a java program to print Fibonacci series without using recursion and using recursion.
 3.	Write a java program to check prime number.	 
 4.	Write a java program to check palindrome number.
-5.  Write a program to add two sqaure matrix
-6.  Write a program to multiply two sqaure matrix
+5.	Write a java program to sort an array elements using bubble sort algorithm.
+6.	Write a java program to sort an array elements using insertion sort algorithm.
